@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Data and Business Complex Problems**
 
-- 📫 How to reach me **muhammadayanprivate@gmail.com**
+- 📫 How to reach me **query.ayan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
