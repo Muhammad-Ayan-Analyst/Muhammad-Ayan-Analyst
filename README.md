@@ -6,12 +6,15 @@
 
 - 🌱 I’m currently learning **Python and web development.**
 
-- 💬 Ask me about **Data problems and business intelligence**
+- 👨‍💻 All of my projects are available at [https://www.youtube.com/channel/UCV18E20f7-a6STDOGXXI9WQ](https://www.youtube.com/channel/UCV18E20f7-a6STDOGXXI9WQ)
+
+- 💬 Ask me about **Data and Business Complex Problems**
 
 - 📫 How to reach me **muhammadayanprivate@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucv18e20f7-a6stdogxxi9wq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucv18e20f7-a6stdogxxi9wq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
