@@ -22,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-ayan-analyst&show_icons=true&locale=en&layout=compact" alt="muhammad-ayan-analyst" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-ayan-analyst&show_icons=true&locale=en" alt="muhammad-ayan-analyst" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-ayan-analyst&" alt="muhammad-ayan-analyst" /></p>
