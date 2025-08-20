@@ -26,5 +26,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-ayan-analyst&" alt="muhammad-ayan-analyst" /></p>
 
+## 🐍 Watch the Snake eat my contributions!
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Muhammad-Ayan-Analyst/Muhammad-Ayan-Analyst/output/snake.svg" alt="Snake animation" />
+</div>
+
 
       
