@@ -1,4 +1,4 @@
-![logo](https://github.com/Muhammad-Ayan-Analyst/Muhammad-Ayan-Analyst/blob/main/banner.png)
+![logo]([https://github.com/Muhammad-Ayan-Analyst/Muhammad-Ayan-Analyst/blob/main/banner.png](https://github.com/Muhammad-Ayan-Analyst/Muhammad-Ayan-Analyst/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png))
 <h1 align="center">Hi 👋, I'm Muhammad Ayan</h1>
 <h3 align="center">A Junior Data Analyst from Pakistan</h3>
 
