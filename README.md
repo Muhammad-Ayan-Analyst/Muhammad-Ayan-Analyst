@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/muhammad-ayan-analyst/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-ayan-analyst/" height="30" width="40" /></a>
 <a href="https://fb.com/https://web.facebook.com/profile.php?id=61579386182991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=61579386182991" height="30" width="40" /></a>
 <a href="https://instagram.com/muhammad_ayan_analyst/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammad_ayan_analyst/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@muhammad-ayan-analyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@muhammad-ayan-analyst" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/@muhammad-ayan-analyst](https://www.youtube.com/channel/UCV18E20f7-a6STDOGXXI9WQ)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@muhammad-ayan-analyst" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
